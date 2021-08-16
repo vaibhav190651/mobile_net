@@ -1,0 +1,83 @@
+body
+{
+    font-family: 'Palette Mosaic', cursive;
+    background: red;
+}
+
+.header_div
+
+{
+background: white;
+color: rgb(132, 0, 255);
+
+}
+
+.header_div img
+{
+    width: 100px;
+}
+
+.footer_div
+{
+    margin-bottom: 50px
+}
+
+.footer_div h4
+{
+    background: white;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px white;
+}
+
+.footer_div img
+{
+    width:70px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+}
+
+.main_div
+{
+    background: rgb(0, 204, 255);
+    padding: 10px;
+    border:3px solid royalblue;
+    margin-top: 15px;
+    
+}
+
+.main_div label
+{
+    background-color: rgb(231, 46, 46);
+    width: 300px;
+    padding:10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px white;
+
+}
+
+.main_div button
+{
+    width: 300px;
+    box-shadow: 5px 5px 18px white;
+    border: 1px solid ;
+    font-size: 16px;
+    
+
+}
+
+#camera, #result
+{
+    border: 1px solid lightcoral;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px white;
+}
